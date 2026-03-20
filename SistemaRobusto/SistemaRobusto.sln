@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaRobusto", "SistemaRobusto.csproj", "{90D57C8F-1368-8C9A-AAB9-D9C416D2661F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D57C8F-1368-8C9A-AAB9-D9C416D2661F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D57C8F-1368-8C9A-AAB9-D9C416D2661F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D57C8F-1368-8C9A-AAB9-D9C416D2661F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D57C8F-1368-8C9A-AAB9-D9C416D2661F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D57C97C-4280-4B37-A056-E8FF8E4178A1}
+	EndGlobalSection
+EndGlobal
